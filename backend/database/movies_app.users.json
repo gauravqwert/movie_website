@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "666972c7fca1ae655c53805c"
+  },
+  "username": "Gaurav",
+  "email": "gaurav@gmail.com",
+  "password": "$2a$10$723duNnoY6LApaFIbfs5gOw5B5Q2I5YeyfLDpK1Oc6ZfkJGVtxur2",
+  "isAdmin": true,
+  "createdAt": {
+    "$date": "2024-06-12T10:04:55.867Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-12T10:04:55.867Z"
+  },
+  "__v": 0
+}]

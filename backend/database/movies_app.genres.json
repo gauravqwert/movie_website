@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "666976fafca1ae655c538076"
+  },
+  "name": "Drama",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66697700fca1ae655c53807b"
+  },
+  "name": "Action",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66697705fca1ae655c538080"
+  },
+  "name": "romance",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66697716fca1ae655c538085"
+  },
+  "name": "Adventure",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666be41cca0a1a85fe7aa448"
+  },
+  "name": "kids & family",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666be420ca0a1a85fe7aa44d"
+  },
+  "name": "comedy",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666be66cca0a1a85fe7aa46f"
+  },
+  "name": "crime",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666be8aeca0a1a85fe7aa492"
+  },
+  "name": "thriller",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666c04a0ca0a1a85fe7aa4ca"
+  },
+  "name": "horror",
+  "__v": 0
+}]

@@ -1,0 +1,557 @@
+[{
+  "_id": {
+    "$oid": "6669997e2388f0a074cdff9b"
+  },
+  "name": "Guntur Kaaram",
+  "image": "/uploads\\image-1718196606376.jpg",
+  "year": 2024,
+  "genre": {
+    "$oid": "66697716fca1ae655c538085"
+  },
+  "detail": "Years after his mother abandons him and remarries, a man demands answers when he's asked to sign a document denying he is her son as she runs for office.",
+  "cast": [
+    "Mahesh Babu",
+    "Sreeleela",
+    "Meenakshi Chaudhary"
+  ],
+  "numReviews": 1,
+  "reviews": [
+    {
+      "name": "Gaurav",
+      "rating": 0,
+      "comment": "This is Very good and awesome movie\n",
+      "user": {
+        "$oid": "666972c7fca1ae655c53805c"
+      },
+      "_id": {
+        "$oid": "666999ab2388f0a074cdffa6"
+      },
+      "createdAt": {
+        "$date": "2024-06-14T06:59:27.834Z"
+      },
+      "updatedAt": {
+        "$date": "2024-06-14T06:59:27.834Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-12T12:50:06.511Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-14T06:59:27.834Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "66699a8f2388f0a074cdffaf"
+  },
+  "name": "Fighter",
+  "image": "/uploads\\image-1718196879308.jpg",
+  "year": 2024,
+  "genre": {
+    "$oid": "66697700fca1ae655c53807b"
+  },
+  "detail": "A reckless yet brilliant squadron leader and his team of elite fighter pilots face mortal dangers and inner demons as they unite for a deadly mission.",
+  "cast": [
+    "Hrithik Roshan",
+    "Deepika Padukone",
+    "Anil Kapoor"
+  ],
+  "numReviews": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-06-12T12:54:39.353Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-12T13:07:21.959Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666be4f1ca0a1a85fe7aa455"
+  },
+  "name": "Luv Ki Arrange Marriage",
+  "image": "/uploads\\image-1718346993557.jpg",
+  "year": 2024,
+  "genre": {
+    "$oid": "666be41cca0a1a85fe7aa448"
+  },
+  "detail": "Luv (Sunny Singh) is preparing to ask for Ishika's (Avneet Kaur) hand in marriage. Things take an unexpectedly chaotic turn when his widowed father (Annu Kapoor) falls in love with Ishika's mother (Supriya Pathak) instead",
+  "cast": [
+    " Sunny Singh",
+    "Supriya Pathak",
+    "Avneet Kaur",
+    "Annu Kapoor",
+    "Sudhir Pandey",
+    "Deepak Rai",
+    "Poornima Sharma",
+    "Paritosh Tripathi",
+    "Geetika Mehandru",
+    "Rajpal Yadav"
+  ],
+  "numReviews": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-06-14T06:36:33.635Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-14T06:36:56.371Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666be60eca0a1a85fe7aa463"
+  },
+  "name": "Baahubali 2: The Conclusion",
+  "image": "/uploads\\image-1718347278139.jpg",
+  "year": 2017,
+  "genre": {
+    "$oid": "66697700fca1ae655c53807b"
+  },
+  "detail": "Amarendra Baahubali, the heir apparent to the throne of Mahishmati, finds his life and relationships endangered as his adoptive brother Bhallaladeva conspires to claim the throne.",
+  "cast": [
+    "Prahbas,Aushka Shetty"
+  ],
+  "numReviews": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-06-14T06:41:18.201Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-14T06:41:18.201Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666be6fbca0a1a85fe7aa473"
+  },
+  "name": "K.G.F: Chapter 2",
+  "image": "/uploads\\image-1718347515108.jpg",
+  "year": 2022,
+  "genre": {
+    "$oid": "666be66cca0a1a85fe7aa46f"
+  },
+  "detail": "In the blood-soaked Kolar Gold Fields, Rocky's name strikes fear into his foes, while the government sees him as a threat to law and order. Rocky must battle threats from all sides for unchallenged supremacy.",
+  "cast": [
+    "Yash ,Sanjay Dutt,Reevan Tandon"
+  ],
+  "numReviews": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-06-14T06:45:15.195Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-14T06:45:15.195Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666be780ca0a1a85fe7aa478"
+  },
+  "name": "RRR",
+  "image": "/uploads\\image-1718347648604.jpg",
+  "year": 2022,
+  "genre": {
+    "$oid": "66697700fca1ae655c53807b"
+  },
+  "detail": "A fearless warrior on a perilous mission comes face to face with a steely cop serving British forces in this epic saga set in pre-independent India.",
+  "cast": [
+    "Ajay Devgn,Ram Charan,N.T. Rama Rao Jr."
+  ],
+  "numReviews": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-06-14T06:47:28.695Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-14T06:47:28.695Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666be80cca0a1a85fe7aa47d"
+  },
+  "name": "Salaar",
+  "image": "/uploads\\image-1718347787948.jpg",
+  "year": 2023,
+  "genre": {
+    "$oid": "66697700fca1ae655c53807b"
+  },
+  "detail": "The fate of a violently contested kingdom hangs on the fraught bond between two friends-turned-foes in this saga of power, bloodshed and betrayal.",
+  "cast": [
+    " Prabhas,Prithviraj Sukumaran,Shruti Haasan"
+  ],
+  "numReviews": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-06-14T06:49:48.042Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-14T06:49:48.042Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666be871ca0a1a85fe7aa482"
+  },
+  "name": "Baahubali: The Beginning",
+  "image": "/uploads\\image-1718347889413.jpg",
+  "year": 2015,
+  "genre": {
+    "$oid": "66697700fca1ae655c53807b"
+  },
+  "detail": "A child from the Mahishmati kingdom is raised by tribal people and one day learns about his royal heritage, his father's bravery in battle and a mission to overthrow the incumbent ruler.",
+  "cast": [
+    " Prabhas,Rana Daggubati,Anushka Shetty"
+  ],
+  "numReviews": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-06-14T06:51:29.505Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-14T06:51:37.567Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666be934ca0a1a85fe7aa496"
+  },
+  "name": "Radhe Shyam",
+  "image": "/uploads\\image-1718348084139.jpg",
+  "year": 2022,
+  "genre": {
+    "$oid": "66697705fca1ae655c538080"
+  },
+  "detail": "Love blooms between a doctor with an uncertain future and a renowned palmist who thought he would never find love. His beliefs are challenged.",
+  "cast": [
+    " Prabhas,Pooja Hegde,Bhagyashree Patwardhan"
+  ],
+  "numReviews": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-06-14T06:54:44.233Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-14T06:54:44.233Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666c041cca0a1a85fe7aa4bb"
+  },
+  "name": " Chupp",
+  "image": "/uploads\\image-1718354972240.jpg",
+  "year": 2024,
+  "genre": {
+    "$oid": "666976fafca1ae655c538076"
+  },
+  "detail": "Cchupp delves into the dark secrets of a seemingly ordinary couple Vikram and Vidhya.",
+  "cast": [
+    " Hiten Kumar",
+    "Morli Patel",
+    "Heena Varde",
+    "Hemang Dave",
+    "Hemin Trivedi"
+  ],
+  "numReviews": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-06-14T08:49:32.277Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-14T08:49:32.277Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666c04e3ca0a1a85fe7aa4df"
+  },
+  "name": "Jhamkudi",
+  "image": "/uploads\\image-1718355171831.jpg",
+  "year": 2024,
+  "genre": {
+    "$oid": "666c04a0ca0a1a85fe7aa4ca"
+  },
+  "detail": "While Gujarat is celebrating Navratri, the village of Raniwada is forbidden to play Garba due to the curse of an evil witch named Jhamkudi. But when the rules are broken, the haunting begins. Will Bablo and Kumud be able to solve the mystery and save Raniwada from the curse of Jhamkudi?",
+  "cast": [
+    " Manasi Parekh",
+    "Ojas Rawal",
+    "Krunal Pandit",
+    "Jayesh More",
+    "Viraj Ghelani"
+  ],
+  "numReviews": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-06-14T08:52:51.870Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-14T08:52:51.870Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666c05eeca0a1a85fe7aa4e5"
+  },
+  "name": "Maru Mann Taru Thayu",
+  "image": "/uploads\\image-1718355438496.jpg",
+  "year": 2024,
+  "genre": {
+    "$oid": "66697705fca1ae655c538080"
+  },
+  "detail": "Maru Mann Taru Thayu is a Gujarati movie starring Bharat Chawda and Heena Varde in prominent roles.",
+  "cast": [
+    "Bharat Chawda",
+    "Heena Varde",
+    "Bharat Thakkar",
+    "Rahul Raval",
+    "Mukesh Rao "
+  ],
+  "numReviews": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-06-14T08:57:18.540Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-14T08:57:18.540Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666c064dca0a1a85fe7aa4ea"
+  },
+  "name": " Samandar",
+  "image": "/uploads\\image-1718355533832.jpg",
+  "year": 2024,
+  "genre": {
+    "$oid": "666be66cca0a1a85fe7aa46f"
+  },
+  "detail": "In the ruthless realm of the Fisheries mafia, two childhood friends, Uday and Salman, form a strong and enduring alliance. However, as they delve deeper into the complexities of power, politics, and revenge, their once-unbreakable bond begins to crumble.",
+  "cast": [
+    "Dharmendra Gohil",
+    "Deeksha Joshi",
+    "Mayur Chauhan",
+    "Jagjeetsinh Vadher",
+    "Reeva Racch"
+  ],
+  "numReviews": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-06-14T08:58:53.870Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-14T08:58:53.870Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666c06c0ca0a1a85fe7aa4ef"
+  },
+  "name": "Vash",
+  "image": "/uploads\\image-1718355648819.jpg",
+  "year": 2023,
+  "genre": {
+    "$oid": "666c04a0ca0a1a85fe7aa4ca"
+  },
+  "detail": "Believe it or not but the world is part of two different energies 'good' and 'evil'. What happens when they collide? Who wins? And at what cost?",
+  "cast": [
+    "Janki Bodiwala",
+    "Hitu Kanodia",
+    "Hiten Kumar",
+    "Nilam Panchal",
+    "Aaryan Sanghvi"
+  ],
+  "numReviews": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-06-14T09:00:48.852Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-14T09:00:48.852Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666c0745ca0a1a85fe7aa4f4"
+  },
+  "name": "Lagan Special",
+  "image": "/uploads\\image-1718355781112.jpg",
+  "year": 2024,
+  "genre": {
+    "$oid": "666be420ca0a1a85fe7aa44d"
+  },
+  "detail": "Shekhar and Suman are supposed to get married in the morning and tonight is the Sangeet Sandhya. It's an arranged marriage where Shekhar seems to be over excited about the marriage but moments before the Sangeet Sandhya function, Suman finds that Shekhar doesn't love her and, heartbroken, decides to call off the wedding.",
+  "cast": [
+    "Malhar Thakar",
+    "Puja Joshi",
+    "Mitra Gadhvi",
+    "Archan Trivedi",
+    "Nijal Modi"
+  ],
+  "numReviews": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-06-14T09:03:01.152Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-14T09:03:01.152Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666c07a0ca0a1a85fe7aa4fa"
+  },
+  "name": "Ittaa Kittaa",
+  "image": "/uploads\\image-1718355872279.jpg",
+  "year": 2024,
+  "genre": {
+    "$oid": "666be41cca0a1a85fe7aa448"
+  },
+  "detail": "The Jariwala family is devastated when Kavya is diagnosed infertile. Craving a child, she and husband Nirav adopt two girls, 7 and 13, accidentally.",
+  "cast": [
+    "Manasi Parekh",
+    "Raunaq Kamdar",
+    "Jia Vaidya",
+    "Alpana Buch",
+    "Princy Prajapati"
+  ],
+  "numReviews": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-06-14T09:04:32.344Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-14T09:04:32.344Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666c08a7ca0a1a85fe7aa500"
+  },
+  "name": "Googly ",
+  "image": "/uploads\\image-1718356135215.jpg",
+  "year": 2013,
+  "genre": {
+    "$oid": "66697705fca1ae655c538080"
+  },
+  "detail": "Sharath and Swath, who fall in love but get separated due to some misunderstandings. They reunite a few years later at a friend's wedding",
+  "cast": [
+    " Yash,Kriti Kharbanda,Anant Nag"
+  ],
+  "numReviews": 1,
+  "reviews": [
+    {
+      "name": "Gaurav",
+      "rating": 0,
+      "comment": "it is nice comedy and romantic movies i like this ",
+      "user": {
+        "$oid": "666972c7fca1ae655c53805c"
+      },
+      "_id": {
+        "$oid": "666c0bb5ca0a1a85fe7aa532"
+      },
+      "createdAt": {
+        "$date": "2024-06-14T09:21:57.449Z"
+      },
+      "updatedAt": {
+        "$date": "2024-06-14T09:21:57.449Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-14T09:08:55.255Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-14T09:21:57.450Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "666c09dfca0a1a85fe7aa508"
+  },
+  "name": "Munna Bhai M.B.B.S.",
+  "image": "/uploads\\image-1718356446993.jpg",
+  "year": 2003,
+  "genre": {
+    "$oid": "666976fafca1ae655c538076"
+  },
+  "detail": "A gangster sets out to fulfill his father's dream of becoming a doctor.",
+  "cast": [
+    " Sanjay Dutt,Arshad Warsi,Gracy Singh"
+  ],
+  "numReviews": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-06-14T09:14:07.036Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-14T09:14:07.036Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666c0a55ca0a1a85fe7aa50d"
+  },
+  "name": "Love Ke Liye Kuch Bhi Karega",
+  "image": "/uploads\\image-1718356565015.jpg",
+  "year": 2001,
+  "genre": {
+    "$oid": "66697705fca1ae655c538080"
+  },
+  "detail": "Desperate for money, three men plot to kidnap a woman and hold her for ransom.",
+  "cast": [
+    " Saif Ali Khan,Fardeen Khan,Aftab Shivdasani"
+  ],
+  "numReviews": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-06-14T09:16:05.054Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-14T09:16:05.054Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666c0ac6ca0a1a85fe7aa512"
+  },
+  "name": "Chak De! India",
+  "image": "/uploads\\image-1718356678430.jpg",
+  "year": 2007,
+  "genre": {
+    "$oid": "666be41cca0a1a85fe7aa448"
+  },
+  "detail": "Kabir Khan, the coach of the Indian Women's National Hockey Team, dreams of making his all-girls team emerge victorious against all odds.",
+  "cast": [
+    " Shah Rukh Khan,Vidya Malvade,Sagarika Ghatge"
+  ],
+  "numReviews": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-06-14T09:17:58.466Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-14T09:17:58.466Z"
+  },
+  "__v": 0
+}]
